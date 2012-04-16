@@ -9,6 +9,7 @@ namespace testGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("linha 1");
         }
     }
 }
